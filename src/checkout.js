@@ -69,9 +69,7 @@ class Checkout {
       });
     });
 
-    // if (this.verbose) {
       this.pricingBreakdown(grandTotalPrice);
-    // }
 
     return grandTotalPrice;
   }
