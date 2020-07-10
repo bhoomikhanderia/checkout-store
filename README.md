@@ -3,6 +3,7 @@
 ---
 
 A checkout application built for a computer store using javascript. 
+Check specs/dius_shopping.md for project specifications.
 
 ## Requirements
 
