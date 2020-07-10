@@ -5,7 +5,7 @@ module.exports = [
       price: 549.99, 
       offer: {
           type: 'bulkPriceDiscount',
-          qty: 4,
+          discountQty: 4,
           discountedPrice: 499.99,
       },
     },
@@ -14,8 +14,8 @@ module.exports = [
       name: 'MacBook Pro',
       price: 1399.99,
       offer: {
-        type: 'freeItem',
-        freeItemSKU: 'vga',
+        type: 'freeProduct',
+        freeProductSKU: 'vga',
       },
     },
     {
@@ -24,8 +24,8 @@ module.exports = [
       price: 109.50,
       offer: {
         type: 'qtyPriceDiscount',
-        qty: 3,
-        discountQty: 1,
+        discountQty: 3,
+        discountQtyAmount: 1,
     },
     },
     {
