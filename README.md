@@ -24,8 +24,8 @@ For mac os, run following commands to install node & yarn
 ---
 
 ```
-1. $ git clone https://github.com/bhoomikhanderia/dius-shopping.git
-2. $ cd dius-shopping
+1. $ git clone https://github.com/bhoomikhanderia/checkout-store.git
+2. $ cd checkout-store
 3. $ yarn install
 ```
 
